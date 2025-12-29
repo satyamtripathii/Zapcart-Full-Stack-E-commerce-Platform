@@ -80,16 +80,6 @@ JWT_SECRET=your_secret_key
 ✅ Order Management
 ✅ Admin Dashboard (Add / Remove Products, View Orders)
 
-📸 Screenshots (Optional)
-Add your app screenshots here
 
-🤝 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss.
 
-📜 License
-MIT
 
-yaml
-Copy code
-
----
